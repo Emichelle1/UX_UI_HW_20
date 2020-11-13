@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erin England Portfolio</title>
+        <link rel="stylesheet" href="style.css">
+        
+        <!DOCTYPE html>
+        <html lang="en">
+        <title>W3.CSS Template</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <style>
+        body {font-family: "Lato", sans-serif, font-size}
+        .mySlides {display: none}
+
+        <style>
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #000000;
+  color: white;
+  font-size: 30px;
+}
+
+/* Page Content */
+.content {padding:20px;}
+</style>
+</head>
+<body>
+
+
+
+          
+            
+
+  </style>
+  <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+</head>
+<body>
+ 
+
+<head>
+  <style>
+  h1 {
+    font-size: 40px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+  
+  p {
+    font-size: 14px;
+  }
+  </style>
+  </head>
+  <body>
+  
+  
+  </p1></h2>
+  
+
+
+ 
+<script>
+$( "p1" ).click(function() {
+  $( this ).slideUp();
+});
+</script>
+
+</html>
+</style>
+
+        <style>
+  p1 {
+    color: red;
+    margin: 5px;
+    cursor: pointer;
+  }
+  p1:hover {
+    background: yellow;
+  }
+  </style>
+  <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+  
+</head>
+<body>
+ 
+
+<script>
+$( "p1" ).click(function() {
+  $( this ).slideUp();
+});
+</script>
