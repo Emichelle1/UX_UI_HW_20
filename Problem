@@ -1,0 +1,13 @@
+<!-- PROBLEM Section -->
+          <div class="w3-black" id="projects">
+            <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
+              <h2 class="w3-wide w3-center">Problem</h2>
+              <p class="w3-opacity w3-center">We have observed that restaurant goers struggle with agreeing on what and  where to eat when planning outings which causes frustration while planning social experiences.
+            </p><br>
+            <h2 class="w3-wide w3-center">Solution</h2>
+            <p class="w3-opacity w3-center">‘Ballot Bites’ assists users with decisions on what to eat and where to go. Family and friends complete individual ballots, and once results are calculated, the app presents a variety of restaurants for the group to choose. The app also offers a ‘roll the dice’ option to eliminate decision making.
+
+The ‘Ballot Bites’ app will effectively remove the frustration of what and where to eat.
+
+
+            </p><br>
