@@ -1,0 +1,15 @@
+<!-- The Overview Section -->
+          <div class="main" id="#about"></div>
+          <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="about">
+            <h2 class="w3-wide">Overview</h2>
+            <p class="w3-justify"><h3> We are researching, validating, and prototyping our idea for a mobile application. We are utilizing the design thinking process without any constraints to design and develop a brand new product that solves a problem in our everyday lives, using UX design processes and tools.
+            </h3></p>
+            <h2 class="w3-wide">Background</h2>
+            <p class="w3-justify"><h3> Goal: Improve the User Experience and retention by uncovering user pain points within the app, keeping in mind the cost of developing completely new features.
+                An experience-driven strategy required us to focus on UX Research Methods first (surveys, emails & user interviews) to uncover the user pain points. We used a operational efficiency strategy to get us closer to our vision in a very resource-constrained environment.</h3></p>
+            <p class="w3-justify"><h3> Tools Used: Miro, Adobe Xd, Trello, Slack, Zoom, Google Docs, Google Sheets, Google Forms, Adobe Photoshop, Adobe Illustrator </h3></p>
+
+
+                
+            </div>
+          </div>
